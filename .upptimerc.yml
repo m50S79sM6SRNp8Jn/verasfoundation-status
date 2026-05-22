@@ -6,7 +6,6 @@ sites:
     url: https://verasfoundation.org
 
 status-website:
-  cname: status.verasfoundation.org
   name: VERAS Foundation Status
   introTitle: "**VERAS Foundation** real-time service status"
   introMessage: Monitored every 5 minutes via GitHub Actions. For incident details contact info@verasfoundation.org.
